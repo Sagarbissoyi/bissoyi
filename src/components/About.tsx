@@ -71,7 +71,7 @@ return (
 
         </div>
         <div className="h-[50vh] flex justify-center items-center overflow-hidden rounded-full mr-14 w-[25vw]" id="photo">
-             <img className="w-[85%] rounded-full shadow-xl" src="/profile.png" alt="profile"/>
+             <img className="w-[85%] rounded-full shadow-xl" src="profile.png" alt="profile"/>
         </div>
     </div>
 )
