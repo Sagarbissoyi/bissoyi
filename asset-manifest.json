@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bissoyi/static/css/main.47f8c96f.css",
+    "main.js": "/bissoyi/static/js/main.5fc01263.js",
+    "index.html": "/bissoyi/index.html",
+    "main.47f8c96f.css.map": "/bissoyi/static/css/main.47f8c96f.css.map",
+    "main.5fc01263.js.map": "/bissoyi/static/js/main.5fc01263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47f8c96f.css",
+    "static/js/main.5fc01263.js"
+  ]
+}
